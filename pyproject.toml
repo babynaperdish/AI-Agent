@@ -1,0 +1,16 @@
+[project]
+name = "ai-agent"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fatsecret>=5.1.1",
+    "flask==3.1.3",
+    "langchain-core>=1.6.10",
+    "langchain-ollama>=1.1.0",
+    "langgraph>=1.2.15",
+    "ollama==0.6.3",
+    "requests==2.34.2",
+    "requests-oauthlib>=2.0.0",
+    "strands-agents==1.61.0",
+]

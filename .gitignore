@@ -1,0 +1,6 @@
+.env
+fatsecret_tokens.json
+__pycache__/
+.venv/
+venv/
+.idea/
